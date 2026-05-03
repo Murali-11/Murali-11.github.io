@@ -5,6 +5,8 @@ title: About
 
 ## About Me
 
+![Murali Thoppil](image.jpg){: style="max-width: 250px; border-radius: 8px; float: right; margin: 0 0 1em 1.5em;"}
+
 I am an environmental scientist at the **University of Bristol**, specialising in national carbon accounting and carbon removal policy. My research focuses on Monitoring, Reporting and Verification (MRV) of greenhouse gas removal (GGR) technologies, with a particular emphasis on assessing durability, additionality and risks across the full spectrum of removal approaches.
 
 I am a lead author on two peer-reviewed papers (in progress) and a UK government-commissioned report on carbon removal certification and verification. My work spans quantitative data analysis, systematic literature reviews, and policy engagement — bridging the gap between scientific evidence and climate governance.
