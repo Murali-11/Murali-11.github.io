@@ -12,7 +12,7 @@ I am an environmental scientist at the **University of Bristol**, specialising i
 I am a lead author on two peer-reviewed papers (in progress) and a UK government-commissioned report on carbon removal certification and verification. My work spans quantitative data analysis, systematic literature reviews, and policy engagement — bridging the gap between scientific evidence and climate governance.
 
 **Current position:** Research Associate, University of Bristol (2024–Present)  
-**Projects:** [CO2RE](https://co2re.co) (UKRI-funded) · PathFinder (EU Horizon)  
+**Projects:** [CO2RE](https://co2re.org/) (UKRI-funded) · [PathFinder](https://pathfinder-heu.eu/) (EU Horizon)  
 **Email:** [murali.thoppil@bristol.ac.uk](mailto:murali.thoppil@bristol.ac.uk)  
 **GitHub:** [github.com/Murali-11](https://github.com/Murali-11)  
 **LinkedIn:** [linkedin.com/in/murali-thoppil](https://www.linkedin.com/in/murali-thoppil)
