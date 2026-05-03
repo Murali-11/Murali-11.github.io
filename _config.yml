@@ -1,0 +1,25 @@
+title: Murali Thoppil
+description: Environmental Scientist | Carbon Removal Research | University of Bristol
+author:
+  name: Murali Thoppil
+  email: murali.thoppil@bristol.ac.uk
+
+url: "https://murali-11.github.io"
+baseurl: ""
+
+theme: minima
+
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/murali-thoppil" }
+    - { platform: github, user_url: "https://github.com/Murali-11" }
+
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
